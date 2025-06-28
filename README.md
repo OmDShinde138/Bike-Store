@@ -1,4 +1,3 @@
-# Bike-Store-Power-BI-Dashboard
 # 🚴‍♂️ Bike-Store-Power-BI-Dashboard
 
 This project presents an end-to-end **Sales and Performance Dashboard** for a fictional Bike Store using Power BI. It highlights data visualization, analysis, and interactive reporting skills by integrating multiple CSV data sources to uncover business insights.
