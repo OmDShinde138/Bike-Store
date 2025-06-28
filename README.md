@@ -1,4 +1,4 @@
-# Bike-Store-Power-BI-Dashboard
+![bike_store-PowerBi_page-0002](https://github.com/user-attachments/assets/fae7ba3a-ca15-43fa-ab10-2d26af3696f7)# Bike-Store-Power-BI-Dashboard
 # 🚴‍♂️ Bike-Store-Power-BI-Dashboard
 
 This project presents an end-to-end **Sales and Performance Dashboard** for a fictional Bike Store using Power BI. It highlights data visualization, analysis, and interactive reporting skills by integrating multiple CSV data sources to uncover business insights.
@@ -31,7 +31,7 @@ Bike Store-PowerBi\
 The dashboard is divided into **two interactive report pages**:
 
 ### 🔹 Page 1: Performance Overview
-![Page 1](screenshots/page1.png)
+![bike_store-PowerBi_page-0001](https://github.com/user-attachments/assets/b9795414-ae4e-4142-aa5e-942da06a63ff)
 
 - **Total Quantity Sold**: 7078 units  
 - **Total Customers**: 1445  
@@ -43,7 +43,7 @@ The dashboard is divided into **two interactive report pages**:
 - **Revenue Before & After Discount**
 
 ### 🔹 Page 2: Deep Dive & Trends
-![Page 2](screenshots/page2.png)
+![bike_store-PowerBi_page-0002](https://github.com/user-attachments/assets/b68a8da9-d5f8-4267-9cb4-ff7372accac1)
 
 - **Gross Value**: $8.58M  
 - **Net Revenue Breakdown** by Category → Brand  
