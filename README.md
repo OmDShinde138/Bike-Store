@@ -30,7 +30,8 @@ Bike Store-PowerBi\
 The dashboard is divided into **two interactive report pages**:
 
 ### 🔹 Page 1: Performance Overview
-![image](https://github.com/user-attachments/assets/2a7c02a2-fa3c-4513-92e5-fa7b1689c60d)
+![image](https://github.com/user-attachments/assets/fac26e09-7b8c-4ec2-8ab9-37b232e9d4ba)
+
 
 - **Total Quantity Sold**: 7078 units  
 - **Total Customers**: 1445  
@@ -42,7 +43,8 @@ The dashboard is divided into **two interactive report pages**:
 - **Revenue Before & After Discount**
 
 ### 🔹 Page 2: Deep Dive & Trends
-![image](https://github.com/user-attachments/assets/d6ab98de-ba53-4ed0-8583-b173d135807c)
+![image](https://github.com/user-attachments/assets/068d379b-7a47-48de-8299-d46e9a440e5e)
+
 
 
 - **Gross Value**: $8.58M  
